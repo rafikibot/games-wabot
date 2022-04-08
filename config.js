@@ -52,8 +52,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐑𝐀𝐅𝐈 𝐆𝐀𝐍𝐙'
-global.author = '𝐑𝐀𝐅𝐈𝐍 𝐁𝐎𝐓 𝐃𝐢𝐣𝐚𝐥𝐚𝐧𝐤𝐚𝐧 𝐎𝐥𝐞𝐡 𝐑𝐀𝐅𝐈 𝐆𝐀𝐍𝐙'
+global.packname = '𝗗𝗜𝗞𝗜 𝗦𝗔𝗣𝗨𝗧𝗥𝗔'
+global.author = '𝐃𝐈𝐊𝐈 𝐁𝐎𝐓 𝐃𝐢𝐣𝐚𝐥𝐚𝐧𝐤𝐚𝐧 𝐎𝐥𝐞𝐡 𝗗𝗜𝗞𝗜 𝗦𝗔𝗣𝗨𝗧𝗥𝗔'
 
 global.multiplier = 39 // The higher, The harder levelup
 
