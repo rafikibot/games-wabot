@@ -10,17 +10,17 @@ let handler  = async (m, { conn, usedPrefix }) => {
   await m.reply('Tunggu Sebentar Kakak!!')
   let neww = Math.round(performance.now())
   conn.reply(m.chat, `
-┏━━━━━『𝐑𝐀𝐅𝐈𝐍 𝐁𝐎𝐓』━━━━━
+┏━━━━━『𝐃𝐈𝐊𝐈 𝐁𝐎𝐓』━━━━━
 ┃ *Versi:* 2
 ┃
-┣『BELI PREMIUM 𝐑𝐀𝐅𝐈𝐍 𝐁𝐎𝐓 』
+┣『BELI PREMIUM 𝐃𝐈𝐊𝐈 𝐁𝐎𝐓 』
 ┃> Keuntungan Akses Fitur Yang di 
 ┃Kunci ✅
-┃➜ GOPAY: 087780353115
+┃➜ GOPAY: 087774683080
 ┃ *TERTARIK?* Chat Owner Sekarang
 ┃Juga dengan Ketik *.Owner*
 ┣❀ SYARAT & KETENTUAN 
-┃『𝐑𝐀𝐅𝐈𝐍 𝐁𝐎𝐓』
+┃『𝐃𝐈𝐊𝐈 𝐁𝐎𝐓』
 ┃
 ┃➜ *KAMI TIDAK BERTANGGUNG*
 ┃   *JAWAB ATAS PENYALAH*
@@ -33,10 +33,11 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ┃   *ANDA DI DATABASE KAMI*
 ┃ 
 ┃𝑹𝑼𝑵𝑵𝑰𝑵𝑮 𝑩𝒚 𝑵𝒂𝒇𝒓𝒐𝒏
+┃➜ https://wa.me/+6281252733108
 ┃ 
-┣❀©2022 𝗥𝗔𝗙𝗜 𝗚𝗔𝗡𝗭
+┣❀©2022 𝗗𝗜𝗞𝗜 𝗦𝗔𝗣𝗨𝗧𝗥𝗔
 ┣ Follow Tiktok @nafronanjayy
-┗━━━━━『𝐑𝐀𝐅𝐈𝐍 𝐁𝐎𝐓』 ┅
+┗━━━━━『𝐃𝐈𝐊𝐈 𝐁𝐎𝐓』 ┅
 `.trim(), m)
 }
 handler.help = ['info']
