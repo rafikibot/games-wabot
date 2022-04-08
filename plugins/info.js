@@ -16,7 +16,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ┣『BELI PREMIUM 𝐃𝐈𝐊𝐈 𝐁𝐎𝐓 』
 ┃> Keuntungan Akses Fitur Yang di 
 ┃Kunci ✅
-┃➜ GOPAY: 087774683080
+┃➜ GOPAY: 083805886796
 ┃ *TERTARIK?* Chat Owner Sekarang
 ┃Juga dengan Ketik *.Owner*
 ┣❀ SYARAT & KETENTUAN 
